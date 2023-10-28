@@ -1,0 +1,2 @@
+# SamsungIC
+Exercises
